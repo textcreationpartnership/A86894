@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition and information of Ioseph Hunscot stationer, to both the Honourable Houses of Parliament now assembled, against divers scandalous libels, and treasonous pamphlets against kingly government, and parliament proceedings; as may appear by the very books herewith presented.</title>
+            <author>Hunscot, Joseph.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86894</idno>
+            <idno type="STC">Wing H3728</idno>
+            <idno type="STC">Thomason E340_15</idno>
+            <idno type="STC">ESTC R200877</idno>
+            <idno type="EEBO-CITATION">99861502</idno>
+            <idno type="PROQUEST">99861502</idno>
+            <idno type="VID">113639</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86894)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113639)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E340[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition and information of Ioseph Hunscot stationer, to both the Honourable Houses of Parliament now assembled, against divers scandalous libels, and treasonous pamphlets against kingly government, and parliament proceedings; as may appear by the very books herewith presented.</title>
+                  <author>Hunscot, Joseph.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 11th 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sedition --  England --  Early works to 1800.</term>
+               <term>Booksellers and bookselling --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Underground literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:113639:1" rendition="simple:additions"/>
+            <head>The humble Petition and information of <hi>Ioſeph Hunſcot</hi> Stationer, to both the Honou<g ref="char:EOLhyphen"/>rable Houſes of Parliament now aſſembled, againſt divers ſcandalous Libels, and treaſon<g ref="char:EOLhyphen"/>ous Pamphlets againſt Kingly Government, and Parliament Proceedings; as may appear by the very Books herewith preſented.</head>
+            <opener>Moſt humbly ſhewing:</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioner was for a long time im<g ref="char:EOLhyphen"/>ployed in printing thoſe things that were commanded to be printed by both Houſes of Parliament, for their vindication and ſatiſ<g ref="char:EOLhyphen"/>faction of the People, and was faithfull there<g ref="char:EOLhyphen"/>in; and upon command of the Honourable Houſe of Commons, did print ſeverall things for them to be ſent down into the Country, which amounted unto neer forty pounds, which your Petitioner is not yet paid for. And that notwithſtanding your Petitioner hath been very for<g ref="char:EOLhyphen"/>wards in all voluntary Contributions and Taxes with Mo<g ref="char:EOLhyphen"/>neys, Horſe and Men, having ever ſince the firſt of theſe unhappy differences had three Servants and his own Son in the Service, voluntary upon his own charges for the moſt part, for want of their pay, looſing thereby his Trade and Servants, and moreover hazarded his own life in the Cauſe, for at the beginning of theſe troubles your Petiti<g ref="char:EOLhyphen"/>oner went down to the Army at <hi>Coventry,</hi> from whence
+<pb n="2" facs="tcp:113639:2" rendition="simple:additions"/>returning, he had like to have been ſurprized by three Troops of the Kings Horſe, which were coming from <hi>Not<g ref="char:EOLhyphen"/>tingham</hi> for <hi>Oxford,</hi> your Petitioner, with ſome others, having uſed their beſt endeavour to eſcape them (they be<g ref="char:EOLhyphen"/>ing routed at <hi>Brackley,</hi> and ſome of them taken that very evening) your ſaid Petitioner, with ſeven others only in his company, fell into the hands of fourteen of the ſaid Troopers, who were well horſed and provided, your Pe<g ref="char:EOLhyphen"/>titioner (being in this ſtraight) with two more of his ſaid company, adventured to fight with them, and in a ſhort time (through Gods bleſſing) diſarmed them all, and carri<g ref="char:EOLhyphen"/>ed them priſoners to <hi>Northampton,</hi> from whence they were ſent to <hi>London,</hi> (they being the firſt that in that kinde were brought up to <hi>London:</hi>) And your Petitioner is confident to affirme, That had the Country and the Officers in chief in <hi>Banbury</hi> been wiſe, faithfull and couragious, neither <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> nor <hi>Banbury</hi> had been taken, as ſhortly after they were. That in the meane time one <hi>John Wright,</hi> by ſome friends, got to be nominated Printer for the Lords Houſe, and one <hi>Husbands</hi> Printer for the Houſe of Commons, al<g ref="char:EOLhyphen"/>though neither of them are Printers, (<hi>Wright</hi> being a Bookſeller, and <hi>Husbands</hi> but a Paper Stationer,) which ſaid <hi>Husbands</hi> hath ſince re-printed thoſe Copies appertai<g ref="char:EOLhyphen"/>ning to your Petitioner, which coſt him above 100 <hi>l.</hi> with<g ref="char:EOLhyphen"/>out his conſent, or giving him any ſatiſfaction. That your Petitioner hoping that reſtitution would have been made to him long before this time, deſiſted to make known his ſaid grievance. Your Petitioner further ſhewes, That he hath been put upon all ſervices of trouble ever ſince in ſearches and apprehending wicked and pernicious perſons, that moleſt the State in printing and venting moſt malici<g ref="char:EOLhyphen"/>ous, falſe, and traiterous Books or Libels, againſt both the Honourable Houſes of Parliament, not ſparing the
+<pb n="3" facs="tcp:113639:2"/>principalleſt men on both Houſes, taxing them by name to be Traytors, and all perjured perſons that do not put out all the Cleargy of the Land, and cals and incites all people to riſe as one man to call the Parliament to queſti<g ref="char:EOLhyphen"/>on, and ſtriking at the very fundamentall Lawes of this Kingdome, crying down the Government by Kings, and alſo againſt the Honourable Houſe of Lords, and only to ſtick to the Commons of <hi>England,</hi> and many inveterate ſpeeches againſt the Nation of the Scots, as much as in them lyes, to make a breach between them and us, which God of his mercy prevent; That your Petitioner for his reward herein is moſt ſhamefully reviled, ſlandred, and re<g ref="char:EOLhyphen"/>proached, by theſe Libellers in all their Libels, and alſo the Companie of Stationers are called Theeves, Robbers, ſetting-doggs, the Biſhops old Rogues, and the perſecu<g ref="char:EOLhyphen"/>tors of the Saints, with divers other baſe names, and in the open ſtreets reviled at by theſe Saints, <hi>Anabaptiſts</hi> and <hi>Sectaries,</hi> being notorious impudent perſons, as may be judged by their Writings, abuſing thoſe that be Saints in<g ref="char:EOLhyphen"/>deed, all the godly Miniſters in the Kingdome, and the Aſ<g ref="char:EOLhyphen"/>ſembly of Divines at Weſtminſter, that ſit there by your Command and Authority, although your Petitioner did never do any thing but by your Warrants and Commands, having a Command from the Commons to ſearch for ſcan<g ref="char:EOLhyphen"/>dalous Books, and having found ſome ſelling them in the ſtreets, your Petitioner particularly examining one wo<g ref="char:EOLhyphen"/>man of whom ſhe had them, ſhe (not knowing who your Petitioner was) confeſſed ſhe had them of one <hi>Lil<g ref="char:EOLhyphen"/>burne</hi> in Newgate, and her name being demanded, with her place of aboad, ſhe refuſed to tell the ſame, but at that inſtant one paſſing by, acquainted your Petitioner that ſhe was one <hi>Brownes</hi> daughter, that did ordinarily ſell ſuch Books, whereupon your Petitioner and others repairing
+<pb n="4" facs="tcp:113639:3"/>to his Houſe, found great ſtore of them, and took the ſaid <hi>Brownes</hi> words to meet your Petitioner and the reſt at the Committee of Examinations in the afternoone, but he failed, and kept out of the way for halfe a yeer, (there being divers Warrants out for him:) Your Petitioner and the reſt then went to <hi>Lilburnes</hi> Chamber to ſearch for the ſaid ſcandalous Books, but at that time found none. But immediately after there came forth another baſe Booke, ſuppoſed to be made by <hi>Lilburne</hi> and his fellowes, Intitu<g ref="char:EOLhyphen"/>led, <hi>Englands Birth-Right,</hi> wherein, beſides the former ſcandalous paſſages againſt the King, Parliament, and Aſ<g ref="char:EOLhyphen"/>ſembly, a moſt falſe, ſcandalous, and felonious charge, is againſt your Petitioner and others, being eminent Mem<g ref="char:EOLhyphen"/>bers of the Company, for ſearching the ſaid <hi>Lilburnes</hi> Houſe, charging them with taking away his Linnen, but your Petitioner and the reſt, in regard no body will owne the ſaid Booke, are left remedileſſe for vindicating them<g ref="char:EOLhyphen"/>ſelves by Law. That ſhortly after the Committee of Exa<g ref="char:EOLhyphen"/>minations being informed that the ſaid <hi>Browne</hi> and his daughter did frequently ſell the ſaid Books, a Warrant iſ<g ref="char:EOLhyphen"/>ſued out from them for the ſaid <hi>Browne</hi> and his daughter to your Petitioner and others, whereupon they repaired thither, but the ſaid <hi>Browne</hi> was denied at his Houſe (be<g ref="char:EOLhyphen"/>ing in a Garden, and having three or foure ſeverall doors) but ſetting a ſtrict watch about his Houſe, after entrance thereinto, the ſaid <hi>Browne</hi> was diſcovered and apprehend<g ref="char:EOLhyphen"/>ed, and alſo divers ſcandalous Books and Pamphlets were then and there found; but the ſaid <hi>Browne</hi> then made an eſcape from the Conſtable, ſo that his daughter only was apprehended, and being brought before Sir <hi>John Wollaſton,</hi> ſhe was committed to the Marſhall, and from thence to be carried up to the Committee of Examinations, where ſhe being brought, the matters charged againſt her for breach
+<pb n="5" facs="tcp:113639:3"/>of the Ordinance of Parliament was fully proved againſt her, and therupon ſhe was re-commanded to the Marſhall. That in a ſhort time after your Petitioner caſually at <hi>Do<g ref="char:EOLhyphen"/>ctors Commons</hi> eſpied the ſaid <hi>Browne,</hi> and having a War<g ref="char:EOLhyphen"/>rant for him, apprehended him, and carried him before the Committee of Examinations, who thereupon was committed to the cuſtody of one <hi>Lewis</hi> a Meſſenger, and your Petitioner, with the Maſter and Wardens, and others of the Chief of the Company, having waited ſeverall daies for a hearing, the ſaid <hi>Browne</hi> (by what meanes your Petitioner knowes not) ſo prevailed, that his ſaid con<g ref="char:EOLhyphen"/>tempt never came to a hearing, and the ſaid <hi>Browne</hi> ſhort<g ref="char:EOLhyphen"/>ly after obteyning his liberty, hath threatned your Peti<g ref="char:EOLhyphen"/>tioner, and the reſt that were with him, to ſue them for falſe impriſonment, &amp; moreover they threatned to knock out your Petitioners braines if he came any more to ſearch his houſe. The Petitioner further ſhewes, That being im<g ref="char:EOLhyphen"/>ployed upon a Warrant from the Speaker of the Houſe of Commons, for the ſeizing of a Preſſe in <hi>Goodmans</hi> Fields, which printed the Book called <hi>Englands Birthright:</hi> That your Petitioner, with the Maſter and Wardens of the Company, endeavouring to put in execution the ſaid Warrant, they were kept out by force, untill at laſt the doores of the houſe being by authority forced open, thoſe that were at worke got out at a window with a rope into a Garden, and ſo eſcaped; But the ſaid Preſſe was ſeized upon, which printed that and divers other Books, as was at large proved before both Houſes of Parliament at <hi>Lar<g ref="char:EOLhyphen"/>ners</hi> examination by divers honeſt men; and no parties in it, as <hi>Larner</hi> in his ſcandalous Libell taxes the Parliament. Not long after this, there came another baſe Book out, In<g ref="char:EOLhyphen"/>tituled, <hi>The laſt warning to London,</hi> threatning the City; they had not long to conſider if they did not comply with
+<pb n="6" facs="tcp:113639:4"/>them, and in it enveyed againſt the Scottiſh Nation, and by conſequence laboured to make the people of the City fall out with that Army, which deſerves praiſe for their faith<g ref="char:EOLhyphen"/>fulneſſe, and to breed jealouſies between the Army and the City, that God hath ſo proſpered, and an endeavour to keep off Government, under pretence of Liberty of Conſcience, that ſo they may do what they liſt, and broach any damnable opinion; and in that Book goes further, abſolutely denying Kingly Government, and the Lords, Houſe, wiſhing the people to marke diligently the Lords but to ſtand to the Commons, to be ruled onely by them; and one of theſe Books being brought to the Lord Mayor of <hi>London,</hi> he immediately ſent for the Warden, Maſter <hi>Miller,</hi> and your Petitioner, and deſired them to finde out the Author and Venter of the ſaid Libell, the which ac<g ref="char:EOLhyphen"/>cordingly they endeavoured, and upon enquiry found that <hi>Larner</hi> was a chiefe venter of them, and repairing to his houſe, found the ſaid <hi>Larner,</hi> with a parcell of the ſaid Bookes; whereupon the ſaid <hi>Larner</hi> was charged with a Conſtable, and carried before the Lord Mayor, who found him, as the Lords did after, being Jeſuited, would anſwer to no queſtion, the Lord Mayor ſent him up to the Com<g ref="char:EOLhyphen"/>mittee of Examinations, where he was examined, and proofe made againſt him, he was then committed to the Marſhals keeping, (there being in the Book high Treaſon.) In the meane while the Honourable Houſe of Peers ſent for him, but he had learned ſo much of <hi>Lilbornes</hi> Language, that he appealed to the Commons, but the ſaid Houſe exa<g ref="char:EOLhyphen"/>mined Witneſſes againſt him <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he refuſing to take the Oath, was committed. There was alſo a ſheet of paper publiſhed called <hi>Every mans caſe, or a brotherly ſupport to Maſter</hi> Lar<g ref="char:EOLhyphen"/>ner, wherein he taxes the Parliament to deale contrary to the Law of God, Nature, Nations, and the Law of this
+<pb n="7" facs="tcp:113639:4"/>Kingdome, as he ſaith, was proved lately in Colonell <hi>Lil<g ref="char:EOLhyphen"/>bornes</hi> Caſe, he there compares the Lords to <hi>Pilate,</hi> char<g ref="char:EOLhyphen"/>geth the Houſe of Commons for breach of truſt, in deli<g ref="char:EOLhyphen"/>vering up <hi>Larner</hi> to be tryed by the Lords, with many other things, wherein the liberty of the Parliament is in<g ref="char:EOLhyphen"/>trenched upon by meane perſons both of ſtate and life, and this was delivered by <hi>Larner</hi> himſelf to the Keeper, and thereupon it was thought fit that the Warden of the Company and your Petitioner ſhould ſearch the ſaid <hi>Lar<g ref="char:EOLhyphen"/>ners</hi> Chamber in the Priſon, whither they repaired, and there they found divers written papers of his owne hand writing, touching his Examination and proceedings before the Lord Mayor, the Lords and Commons, the which about a week after came forth in print, called, <hi>A true rela<g ref="char:EOLhyphen"/>tion of all the remarkable paſſages and illegall proceedings of ſome ſatanicall, Doeg-like accuſers of their Brethren, againſt</hi> William Larner <hi>a freeman of</hi> England. The which, as the former, are very ſcandalous and malicious, eſpecial<g ref="char:EOLhyphen"/>ly againſt both Houſes of Parliament, and the Stationers, which ſaid ſheet is now re-printed againe with Additions of a new to Maſter <hi>Larner,</hi> with directions for better ſatiſ<g ref="char:EOLhyphen"/>faction of the Natives Freedome of this Land, willing them to read a Book called <hi>Englands Birthright,</hi> and ano<g ref="char:EOLhyphen"/>ther Book called <hi>A word to the wiſe,</hi> in all which Books you may perceive the ſpirits of theſe men, if they had power in their hands, and might live ſtill as they do, looſely and lawleſſe.</p>
+            <p>Therfore your Petitioner moſt humbly craves the liber<g ref="char:EOLhyphen"/>ty of a Freeman of <hi>England,</hi> to have juſtice upon theſe ſcandalous perſons, and ſome courſe, as in your wiſ<g ref="char:EOLhyphen"/>domes, to ſtop unlicenſed printing in corners, and the rather becauſe all their ſcandalous Libels are ſtuffed with diſgraces of both Houſes of Parliament, and
+<pb n="8" facs="tcp:113639:5"/>of your Petitioner and the Stationers, for executing our Commands, Ordinances, and Warrants, your Petitioner never having one penny thereby, and yet in their Libels they affirm him to have 500 <hi>l.</hi> a yeer, when as in truth he hath hitherto gone upon his own charge. And he further prayes, That ſome ſpeedy courſe may be taken with theſe libellers, that he may be free from danger of his life: And that ſome preſent order may be taken, that his moneys ſo long owing to him by the Parliament for printing of Books, may be paid him, and ſome ſatisfaction from the ſaid <hi>Husbands,</hi> and a conſideration had of his fidelity, good ſervice, and large expences, for theſe five or ſix yeares.</p>
+            <closer>
+               <signed>And he ſhall ever pray, &amp;c.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
